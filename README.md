@@ -1,8 +1,7 @@
 # EXPERIMENT-6
-## NAME: MONISH N
-## REGNO: 212223240097
+
 ## AIM
-To write a Python program for checking Palindrome and to write test cases for ir. 
+# To write a Python program for checking Palindrome and to write test cases for ir. 
 
 ## ALGORITHM
 Step 1: Start
@@ -20,6 +19,8 @@ Step 6: Else, return that it is not a palindrome.
 Step 7: Stop. 
 
 ## PROGRAM
+### NAME: MONISH N
+### REGNO: 212223240097
 ~~~
 def Palindrome(string):
     for i in range(0, int(len(string) / 2)):

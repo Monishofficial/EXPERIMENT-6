@@ -54,13 +54,16 @@ else:
 ## OUTPUT
 
 Alphanumeric values:
+
 <img width="687" height="93" alt="image" src="https://github.com/user-attachments/assets/23ac8502-ee08-47a1-85f6-d52cffb20026" />
 
 Numeric values:
+
 <img width="675" height="88" alt="image" src="https://github.com/user-attachments/assets/b75066bb-400c-425f-a74c-720462586cb6" />
 
 
 Alphabet values:
+
 <img width="598" height="74" alt="image" src="https://github.com/user-attachments/assets/a6a40b8b-e22b-42ab-be80-9ed79f9efcc6" />
 
 Non-palindrome string:
@@ -69,6 +72,7 @@ Non-palindrome string:
 
 
 Symbols:
+
 <img width="630" height="90" alt="image" src="https://github.com/user-attachments/assets/152434ee-e8f3-46c8-b47b-01895cfc80d1" />
 
 
